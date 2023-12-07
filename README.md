@@ -1,48 +1,15 @@
-<div class="container">
-        <h1>Hi there, I'm [Your Name]! 👋</h1>
+# Hi there, I'm PALAK KUMAR! 👋
 
-        <h2>About Me</h2>
-        <p>I am a passionate computer science student and a YouTube video editor based in Haridwar, Uttarakhand, India. Currently pursuing B.Tech from Uttarakhand Technical University, Dehradun. My interests range from video editing to data structures and algorithms.</p>
+## About Me
 
-        <ul>
-            <li>🎓 Studying B.Tech in Computer Science</li>
-            <li>🎥 YouTube Video Editor</li>
-            <li>💻 Aspiring Software Engineer</li>
-            <li>🌐 Creator of web apps</li>
-            <li>📚 Enthusiast in Data Structures & Algorithms</li>
-        </ul>
+I am a passionate computer science student and a YouTube video editor based in Haridwar, Uttarakhand, India. Currently pursuing B.Tech from Uttarakhand Technical University, Dehradun. My interests range from video editing to data structures and algorithms.
 
-        <h2>My Interests</h2>
-        <ul>
-            <li>🎬 Movie Stories, Directions, and Editing</li>
-            <li>🖥️ Web App Development</li>
-            <li>📊 Problem Solving</li>
-        </ul>
+- 🎓 Studying B.Tech in Computer Science & Engineering 
+- 🎥 YouTube Video Editor
+- 💻 Aspiring Software Engineer
+- 🌐 Creator of web apps
+- 📚 Enthusiast in Data Structures & Algorithms
 
-        <h2>Skills</h2>
-        <ul>
-            <li><strong>Languages:</strong> C++, Java, Python</li>
-            <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
-            <li><strong>Video Editing:</strong> Adobe Premiere Pro, Final Cut Pro</li>
-            <li><strong>Problem Solving:</strong> Data Structures & Algorithms</li>
-        </ul>
-
-        <h2>Projects</h2>
-        <ul>
-            <li><a href="project1_link">Project 1: Project Name</a></li>
-            <li><a href="project2_link">Project 2: Project Name</a></li>
-        </ul>
-
-        <h2>Connect with Me</h2>
-        <ul>
-            <li><a href="your_youtube_link">YouTube</a></li>
-            <li><a href="your_linkedin_profile">LinkedIn</a></li>
-            <li><a href="your_twitter_profile">Twitter</a></li>
-        </ul>
-
-        <p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 🚀</p>
-    </div>
-</body>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/its_____essential?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/palak-kumar1998/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC-Xu_p7fVO7IGOUJ0yjFO-A) 
 
