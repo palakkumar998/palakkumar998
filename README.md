@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate computer science student and a YouTube video editor based in Haridwar, Uttarakhand, India. Currently pursuing B.Tech from Uttarakhand Technical University, Dehradun. My interests range from video editing to data structures and algorithms.
+I am a passionate Computer Science student and a Video Editor based in Haridwar, Uttarakhand, India. Currently pursuing B.Tech from Uttarakhand Technical University, Dehradun. My interests range from video editing to data structures and algorithms.
 
 - 🎓 Studying B.Tech in Computer Science & Engineering 
 - 🎥 YouTube Video Editor
